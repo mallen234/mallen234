@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+# A selection of projects I have made can be found below
+- quiz game
+- photography blog
+- solar system simulation
+
+
+[![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=mallen234)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **mallen234/mallen234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
