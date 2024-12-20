@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 # A selection of projects I have made can be found below
-- quiz game
-- photography blog
-- solar system simulation
+- Trivial - modern daily game
+- Photography Blog
+- Newtonian Physics simulator
 
 
 [![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=mallen234)](https://github.com/anuraghazra/github-readme-stats)
